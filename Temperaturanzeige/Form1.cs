@@ -14,6 +14,7 @@ namespace Temperaturanzeige
     {
         public Form1()
         {
+            // Change change change !!! 
             InitializeComponent();
           
         }
